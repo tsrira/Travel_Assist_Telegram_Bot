@@ -17,6 +17,7 @@ You can interact with the live chatbot on Telegram:
 
 #### Example Interaction:
 **You:** `What is the price for the Shimla Manali tour for two people?`
+
 **Bot:** `The price for the Shimla Kufri Manali Rohtang Chandigarh Kurukshetra tour (Tour No. 8) varies by season. During Peak Season (April, May, June, Oct, 20th-31st Dec 2025), the Standard Twin Sharing rate is ₹21,000/- per person, and the Deluxe Twin Sharing is ₹27,500/- per person. Please note this pricing is for a 6 Days/5 Nights tour.`
 
 ---
