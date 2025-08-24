@@ -22,11 +22,11 @@ You can interact with the live chatbot on Telegram:
 
 **You:** `Any Foreign tours available` ?
 
-**Bot:** `Yes, Panicker's Travel offers a selection of tours that include both domestic and a few international (foreign) tours. Please note:
+**Bot:** `Yes, Panicker's Travel offers a selection of tours that include both domestic and a few international (foreign) tours. Please note:`
 
-- Some of the international tours have dynamic pricing based on the season, hotel category, and group size.
-- If the exact tour price is not published, it will be marked as "On request."
-- It is important to confirm the final price directly with Panicker's Travel before booking.`
+- `Some of the international tours have dynamic pricing based on the season, hotel category, and group size.`
+- `If the exact tour price is not published, it will be marked as "On request."`
+- `It is important to confirm the final price directly with Panicker's Travel before booking.`
 
 ---
 
