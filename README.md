@@ -13,10 +13,10 @@ An AI-powered Telegram chatbot for Panicker's Travel that provides instant, accu
 
 You can interact with the live chatbot on Telegram:
 
-**Telegram Bot Link:** [**https://t.me/paniker_travel_assist_bot**](https://t.me/paniker_travel_assist_bot)
+**Telegram Bot Link:** [**Panicker Travels Telegram Bot**](https://t.me/paniker_travel_assist_bot)
 
 
-**How it works? :** [Travel Assist Telegram Video] (https://youtu.be/TYBeZXNJJQw)
+**How it works? :** [**Travel Assist Telegram Video**](https://youtu.be/TYBeZXNJJQw)
 
 #### Example Interaction:
 **You:** `What is the price for the Shimla Manali tour for two people?`
